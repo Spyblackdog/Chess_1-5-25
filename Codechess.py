@@ -7,3 +7,5 @@ b = 5.0
 print(b)
 c = (1,2,3)
 print(c)
+#c is tuple
+
