@@ -8,4 +8,5 @@ print(b)
 c = (1,2,3)
 print(c)
 #c is tuple
-
+b = complex(b)
+print(b,type(b))
