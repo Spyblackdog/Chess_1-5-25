@@ -10,3 +10,5 @@ print(c)
 #c is tuple
 b = complex(b)
 print(b,type(b))
+d = {"name":"Salah","Club":"Liverpool"}
+print(d["name"],d["Club"])
