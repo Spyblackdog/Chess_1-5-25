@@ -5,3 +5,5 @@ a = 5 + 2j
 print(a)
 b = 5.0
 print(b)
+c = (1,2,3)
+print(c)
