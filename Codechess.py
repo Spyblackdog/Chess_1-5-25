@@ -41,3 +41,7 @@ is not : Trả về True nếu không có đối tượng giống nhau
 in : Trả về True nếu phần tử tồn tại trong đối tượng
 in not : Trả về True nếu phần tử không tồn tại trong đối tượng 
 """
+liverpool = ['salah', 'arnold', 'alisson', 'diaz', 'nunez']
+mancity = ['halland','de bruyne','halland','ederson','halland']
+liverpool.sort(reverse = True)
+print(liverpool)
